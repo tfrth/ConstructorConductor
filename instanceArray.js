@@ -26,9 +26,21 @@ users.push(user1);
 users.push(user2);
 users.push(user3);
 
+//-----another example
+
+// users.push(
+//     new User('Tyler', 'tylermcginnis33@gmail.com', 'iLoveJS'),
+//     new User('Cahlan', 'cahlan@devmounta.in', 'iLoveHashtags'),
+//     new User('Lenny', 'lenny@theLenster.com', 'iloveLentilSoup')
+//   )
+
+//console.log(users[0]);
+
 
 console.log('Tyler\'s information is ' + user1);
 //Console.log all of Tylers information
+
+console.log(user1);
 
 console.log('Lenny\'s information is ');
 //Now console.log all of Lennys information
